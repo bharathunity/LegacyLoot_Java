@@ -34,3 +34,6 @@ build/
 
 # Ignore application properties
 /src/main/resources/application.properties
+
+# Or, to ignore all application.properties files in any subdirectory
+# /src/main/resources/**/application.properties
